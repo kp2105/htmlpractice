@@ -1,0 +1,25 @@
+.wrapper{
+    width:100%;
+}
+
+.fir-img{
+     display: none;
+}
+
+.img-info{
+    width:100%
+}
+
+.img-info h2 {
+    font-size: 50px;
+    padding: 50px 50px 20px;
+    font-family: Arial;
+    line-height: 44px;
+}
+
+.img-info p{
+    font-size: 20px;
+    padding: 0px 50px 20px;
+    font-family: Arial;
+    line-height: 22px;
+}
